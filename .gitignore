@@ -1,4 +1,7 @@
 *~
+*.x86
+linux_Data/
+tamaAnd/
 *.swp
 *.swo
 *.sdf
