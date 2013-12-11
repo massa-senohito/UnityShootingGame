@@ -6,10 +6,7 @@ tamaAnd/
 *.swo
 *.sdf
 *.suo
-*.png
 *.opensdf
-*.mat
-*.bmp
 *.gch
 bin/
 obj/
@@ -18,4 +15,3 @@ Assets/iTween/Sample/
 ipch/
 CMakeLists.*
 *.cgfx
-Library/metadata
